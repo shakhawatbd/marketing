@@ -1,0 +1,267 @@
+/*Global css start*/
+body {
+    font-family: ;
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+    color: #979797;
+    font-style: normal;
+}
+h6 {
+    margin-bottom: -10px;
+    letter-spacing: 3px;
+    color: #BEC1AF;
+}
+/*Global css end*/
+
+/*Header-top section start*/
+
+.header-top {
+    padding-top: 30px;
+    padding-bottom: 264px;
+    background: url(../images/startup-0.png) no-repeat 0px 120px, url(../images/startup-1.jpg);
+    background-size: 100%;
+    margin-top: -62px;
+}
+.font-btn {
+    font-family:'Lora', serif;
+}
+.bt-one {
+    margin-top: 72px;
+    font-size: 20px;
+    color: #406FA2;
+    border-radius: 5px;
+}
+.header-top ul {
+    margin-top: 85px;
+}
+.header-top ul li {
+    margin-left: 15px;
+}
+.header-top ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 0px;
+    letter-spacing: 2px;
+}
+.header-top h1 {
+    margin-top: 100px;
+    color: white;
+    font-size: 40px;
+    letter-spacing: 2px;
+    font-weight: bold;
+
+}
+.header-top p {
+    color: #c1c1c6;
+    font-size: 21px;
+}
+.bt-two {
+    padding: 12px 60px;
+    background-color: #2595FF;
+    margin-top: 22px;
+    font-size: 20px;
+    border-radius: 8px;
+}
+.bt-two:hover {
+    background-color: #007CF1;
+}
+
+/*Header top section end*/
+
+/*Information section start*/
+
+.information img {
+    margin-top: 100px; 
+}
+.informtaion-right {
+    margin-left: 10px;
+}
+.rich {
+    margin-top: 250px;
+    
+}
+.rich-p {
+    margin-top: 8px;
+    letter-spacing: 1px;
+    font-size: 16px;
+}
+.data {
+    margin-top: 22px;
+    margin-bottom: 1px;
+}
+
+/*Information section end*/
+
+/*Development section start*/
+
+.development {
+    background-color: #262F36;
+    color: #fff;
+}
+.development h6 {
+    padding-top: 180px;
+}
+.btn-read {
+    color: black;
+    background-color: #fff;
+    padding: 10px 50px;
+    font-size: 20px;
+    border-radius: 8px;
+    margin-top: 25px;
+    border-color: #fff;
+}
+.btn-read:hover {
+    color: black;
+    background-color: #E6E6E6;
+    border-color: #E6E6E6;
+}
+.development-border {
+    margin: 100px -105px 100px 0px;
+    border: 1px solid #979797;
+    padding: 50px 0px 50px 45px;
+}
+.development ol li {
+    color : #979797;
+}
+.dev-list-p {
+    color: #61A4B7; 
+}
+/*Development section end*/
+
+/*cindy section start*/
+
+.cindy {
+    background: url(../images/startup-3.jpg);
+}
+.cindy h6 {
+    padding-top: 347px;
+    color: 
+}
+.cindy h2 {
+    color: #fff;
+}
+.cindy p {
+    color: #BEC1AF;
+    padding-bottom: 197px;
+}
+
+/*cindy section end*/
+
+/*tech section start*/
+
+.tech {
+    background-color: #2595FF;
+}
+/*tech section end*/
+
+/*tech section start*/
+
+.tech img {
+    margin-top: 60px;
+    margin-bottom: 60px;
+
+}
+/*tech section end*/
+
+/*machine section start*/
+
+.machine {
+    margin-top: 100px;
+}
+.img-one {
+    margin-left: 64px;
+    margin-bottom: 20px;
+}
+.img-two {
+    margin-left: 32px;
+    margin-bottom: 22px;
+    margin-top: 30px;
+}
+.img-margin-two {
+    margin-left: 50px;
+}
+.img-three {
+    margin-left: 64px;
+    margin-bottom: 10px;
+    margin-top: -10px;
+}
+.img-margin-three {
+    margin-left: 55px;
+}
+.img-five {
+    margin-left: 32px;
+    margin-bottom: 22px;
+    margin-top: -12px;
+}
+.img-six {
+    margin-left: 32px;
+    margin-bottom: 34px;
+    margin-top: 11px;
+}
+.margin-btm {
+    margin-bottom: 90px;
+}
+/*machine section end
+
+/*plan section start*/
+
+.plan {
+    background-color: #F4F5F6;
+    padding-top: 100px;
+}
+
+
+.personal img {
+    margin-top: 75px;
+    margin-left: 70px;
+    margin-bottom: 12px;
+}
+.personal p {
+    margin-bottom: 20px;
+    margin-top: 18px;
+}
+
+.brdr {
+    border-top: 1px solid #979797;
+}
+.personal {
+    padding-bottom: 80px;
+}
+.business {
+    margin-left: 52px;
+    padding-top: 5px;
+}
+.corporate {
+    margin-left: 50px;
+    padding-top: 8px;
+}
+.bt {
+    margin-top: 15px;
+    background-color: #2595FF;
+    border-color: #2595FF;
+    padding: 10px 56px;
+}
+
+.bt:hover {
+    background-color: #007CF1;
+    border-color: #007CF1;
+}
+/*plan section end*/
+
+/*footer section start*/
+
+.footer {
+    background-color: #262F36;
+}
+.footer h6 {
+    margin-top: 100px;
+    margin-bottom: 16px;
+    color: #fff;
+}
+.footer p {
+    line-height: 20px;
+    padding-bottom: 110px;
+}
+/*footer section end*/
